@@ -1,6 +1,6 @@
 # client
 
-## Project setup
+## Project setup for client
 ```
 npm install
 ```
@@ -10,14 +10,14 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### View project
 ```
-npm run build
+open on your local browser http://localhost:8080
 ```
 
-### Lints and fixes files
+### Created by
 ```
-npm run lint
+2001576892 - Heraldo Yusron P
 ```
 
 ### Customize configuration
